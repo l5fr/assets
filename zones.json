@@ -1,9 +1,9 @@
 [
   {
     "id": -1,
-    "name": "[!] SUGGEST GAMES .gg/D4c9VFYWyU",
+    "name": "[!] SUGGEST GAMES .gg/",
     "cover": "{COVER_URL}/dc.png",
-    "url": "https://discord.gg/D4c9VFYWyU"
+    "url": "https://discord.gg/"
   },
   {
     "id": 0,
@@ -5820,5 +5820,13 @@
     "special": [
       "port"
     ]
+     {
+    "id": 669,
+    "name": "clash roya;",
+    "cover": "{COVER_URL}/666.png",
+    "url": "{HTML_URL}/666.html",
+    "author": "Max Games Studios",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&pli=1"
+  },
   }
 ]
