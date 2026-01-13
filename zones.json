@@ -5820,5 +5820,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 669,
+    "name": "Clash Royale",
+    "cover": "{COVER_URL}/669.png",
+    "url": "{HTML_URL}/669.html",
+    "author": "Supercell",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&pli=1"
   }
 ]
